@@ -1,0 +1,3682 @@
+.world-class-clinics {
+  color: #000;
+  white-space: pre-wrap;
+}
+.world-class-clinics-container {
+  position: relative;
+  line-height: 130%;
+}
+.world-class-clinics-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.standard-treatments {
+  color: #000;
+}
+.only-asian-member {
+  position: relative;
+  font-size: 28px;
+  line-height: 130%;
+  color: #000;
+}
+.frame-group {
+  position: absolute;
+  top: 2px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 60px;
+}
+.frame-wrapper {
+  width: 730px;
+  position: relative;
+  height: 83px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-child {
+  width: 99px;
+  height: 99px;
+}
+.b,
+.frame-child,
+.frame-item {
+  position: relative;
+}
+.frame-item {
+  width: 37px;
+  height: 33.3px;
+}
+.b {
+  line-height: 150%;
+}
+.frame-parent3,
+.parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 33px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 6px;
+}
+.parent {
+  top: 41px;
+  font-size: 40px;
+}
+.frame-parent2 {
+  width: 101px;
+  position: relative;
+  height: 33px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.lakh {
+  margin: 0;
+}
+.star-ratings {
+  margin: 0;
+  font-size: 18px;
+  font-weight: 600;
+  color: #303030;
+}
+.lakh-5-star-ratings-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.frame-wrapper1 {
+  width: 216px;
+  position: relative;
+  height: 55px;
+  overflow: hidden;
+  flex-shrink: 0;
+  font-size: 32px;
+  color: #ea7d28;
+}
+.frame-div {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.line-div {
+  width: 2px;
+  position: relative;
+  border-right: 2px solid #fadabe;
+  box-sizing: border-box;
+  height: 152px;
+}
+.rectangle-div {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 63px;
+  background-color: #fff;
+  border: 1.3px solid #afafaf;
+  box-sizing: border-box;
+  width: 400px;
+  height: 66px;
+}
+.vector-icon {
+  position: absolute;
+  top: 27.6px;
+  left: 348.8px;
+  width: 21px;
+  height: 11.8px;
+}
+.select-your-city {
+  position: absolute;
+  top: 26.3px;
+  left: 31.5px;
+  font-weight: 500;
+}
+.rectangle-parent {
+  align-self: stretch;
+  position: relative;
+  height: 66px;
+}
+.locate-nearest-clove {
+  position: relative;
+  font-weight: 500;
+}
+.icon {
+  width: 20.6px;
+  position: relative;
+  border-radius: 0.2px;
+  height: 20.6px;
+  display: none;
+}
+.locate-nearest-clove-clinic-parent {
+  width: 400px;
+  border-radius: 50px;
+  background-color: #f8943f;
+  border: 1px solid #de6f0d;
+  box-sizing: border-box;
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 26.3px 55.2px;
+  gap: 13.1px;
+  font-size: 24px;
+  color: #fff;
+}
+.frame-parent4 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 21px;
+  color: #a0a0a0;
+  font-family: Raleway;
+}
+.frame-container,
+.frame-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-container {
+  gap: 32px;
+  font-size: 24px;
+  color: #4d2c19;
+}
+.frame-parent {
+  position: absolute;
+  top: 842px;
+  left: calc(50% - 929px);
+  padding: 60px 108px;
+  gap: 101px;
+  color: #ea7d28;
+  font-family: "Open Sans";
+}
+.all-dental-issues-container {
+  width: 928px;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.all-dental-issues-from-simple-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  font-size: 40px;
+  font-family: Rakkas;
+}
+.root-canal-icon {
+  width: 50.9px;
+  position: relative;
+  height: 75px;
+}
+.root-canal-treatment-container {
+  position: relative;
+  line-height: 130%;
+  font-weight: 600;
+}
+.root-canal-treatment-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-icon {
+  width: 28.5px;
+  position: relative;
+  height: 24px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: none;
+}
+.frame-parent7,
+.rct {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent7 {
+  align-self: stretch;
+  height: 45px;
+  flex-direction: row;
+  gap: 9px;
+}
+.rct {
+  width: 235px;
+  border-radius: 15px;
+  background-color: #fff;
+  height: 204px;
+  flex-direction: column;
+  padding: 36px 18px;
+  box-sizing: border-box;
+  gap: 36px;
+  text-align: left;
+}
+.braces-child {
+  width: 109px;
+  position: relative;
+  height: 47px;
+}
+.braces,
+.frame-parent8 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent8 {
+  align-self: stretch;
+  height: 45px;
+  flex-direction: row;
+  gap: 31.5px;
+}
+.braces {
+  width: 235px;
+  border-radius: 15px;
+  background-color: #fff;
+  height: 204px;
+  flex-direction: column;
+  padding: 49.5px 18px 25.5px;
+  box-sizing: border-box;
+  gap: 34.5px;
+  text-align: left;
+}
+.whitening-child {
+  width: 80px;
+  position: relative;
+  height: 75.7px;
+}
+.frame-parent9,
+.whitening {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent9 {
+  align-self: stretch;
+  height: 45px;
+  flex-direction: row;
+  gap: 12px;
+}
+.whitening {
+  width: 235px;
+  border-radius: 15px;
+  background-color: #fff;
+  height: 204px;
+  flex-direction: column;
+  padding: 36px 18px;
+  box-sizing: border-box;
+  gap: 36px;
+}
+.asset-13-1 {
+  width: 120px;
+  position: relative;
+  height: 67.6px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.braces2,
+.frame-parent10 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent10 {
+  align-self: stretch;
+  height: 45px;
+  flex-direction: row;
+  gap: 24px;
+}
+.braces2 {
+  width: 235px;
+  border-radius: 15px;
+  background-color: #fff;
+  height: 204px;
+  flex-direction: column;
+  padding: 49.5px 18px 25.5px;
+  box-sizing: border-box;
+  gap: 34.5px;
+}
+.implant-icon {
+  width: 55.3px;
+  position: relative;
+  height: 75px;
+}
+.dental-implants-inner {
+  align-self: stretch;
+  height: 45px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.rct-child {
+  width: 77px;
+  position: relative;
+  height: 93px;
+}
+.frame-parent11,
+.rct-parent {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.frame-parent11 {
+  align-self: stretch;
+  height: 45px;
+  align-items: center;
+  gap: 22.5px;
+}
+.rct-parent {
+  align-items: flex-start;
+  gap: 24px;
+}
+.gum-icon,
+.rct-item {
+  width: 75px;
+  position: relative;
+  height: 75px;
+}
+.gum-icon {
+  width: 128.1px;
+  height: 58.3px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.gum-treatment {
+  width: 164px;
+  position: relative;
+  line-height: 130%;
+  font-weight: 600;
+  display: inline-block;
+}
+.braces-item {
+  width: 100px;
+  position: relative;
+  height: 82px;
+}
+.braces4 {
+  width: 235px;
+  border-radius: 15px;
+  background-color: #fff;
+  height: 204px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  padding: 24px 18px 25.5px;
+  box-sizing: border-box;
+}
+.laser-icon {
+  width: 60.6px;
+  position: relative;
+  height: 75px;
+}
+.laserpainless-dentistry {
+  width: 204px;
+  position: relative;
+  line-height: 130%;
+  font-weight: 600;
+  display: inline-block;
+}
+.lasers {
+  width: 235px;
+  border-radius: 15px;
+  background-color: #fff;
+  height: 204px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 36px 18px;
+  box-sizing: border-box;
+  gap: 36px;
+  text-align: center;
+}
+.dental-implants-child,
+.whitening-item {
+  width: 54px;
+  position: relative;
+  height: 75.4px;
+}
+.whitening-item {
+  width: 78.8px;
+  height: 75px;
+}
+.frame-parent15,
+.rct-group {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.frame-parent15 {
+  align-self: stretch;
+  height: 45px;
+  align-items: center;
+  gap: 19px;
+}
+.rct-group {
+  align-items: flex-start;
+  gap: 24px;
+  text-align: left;
+}
+.search-icon {
+  width: 23px;
+  position: relative;
+  height: 23px;
+}
+.explore-treatments {
+  position: relative;
+  text-decoration: underline;
+  line-height: 130%;
+}
+.arrow-icon {
+  width: 18px;
+  position: relative;
+  max-height: 100%;
+}
+.search-parent {
+  align-self: stretch;
+  height: 14px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  text-align: left;
+  color: #4d2c19;
+}
+.final-inner,
+.frame-parent5 {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frame-parent5 {
+  border-radius: 30px;
+  background-color: #fff9f4;
+  align-items: center;
+  padding: 80px;
+  gap: 60px;
+}
+.final-inner {
+  position: absolute;
+  top: 1124px;
+  left: 0;
+  align-items: flex-start;
+  padding: 80px 115px;
+  text-align: center;
+  font-size: 24px;
+}
+.contact-now {
+  position: relative;
+  font-size: 24px;
+  line-height: 130%;
+  font-family: "Open Sans";
+  color: #474747;
+}
+.expert-guidance-for-healthy-sm-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.frame-child9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 80px;
+  background-color: #fff;
+  border: 1.6px solid #afafaf;
+  box-sizing: border-box;
+  width: 400px;
+  height: 72px;
+}
+.frame-child10 {
+  position: absolute;
+  top: -8px;
+  left: 34px;
+  background-color: #fff8f2;
+  width: 65px;
+  height: 10px;
+}
+.amit-rana,
+.name {
+  position: absolute;
+  top: -8.1px;
+  left: 39px;
+}
+.amit-rana {
+  top: 25px;
+  left: 33px;
+  font-size: 28px;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: #5e5e5e;
+}
+.rectangle-group {
+  width: 400px;
+  position: relative;
+  height: 72px;
+  font-size: 20px;
+  color: #888;
+  font-family: Switzer;
+}
+.mobile-number {
+  position: absolute;
+  top: 26.3px;
+  left: 31.8px;
+}
+.rectangle-container {
+  width: 400px;
+  position: relative;
+  height: 72px;
+}
+.vector-icon1 {
+  position: absolute;
+  top: 29px;
+  left: 350px;
+  width: 25.9px;
+  height: 14.5px;
+}
+.select-concern {
+  position: absolute;
+  top: 26.3px;
+  left: 32.8px;
+}
+.frame-parent19 {
+  width: 401px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.locate-nearest-clove-clinic-group {
+  width: 400px;
+  border-radius: 50px;
+  background-color: #f8943f;
+  border: 1px solid #de6f0d;
+  box-sizing: border-box;
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 26.3px 55.2px;
+  gap: 13.1px;
+  color: #fff;
+  font-family: Raleway;
+}
+.frame-parent18 {
+  width: 401px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 48px 35px;
+  font-size: 24px;
+  color: #a0a0a0;
+  font-family: "Open Sans";
+}
+.frame-parent17 {
+  flex: 1;
+  border-radius: 24px;
+  background-color: #fff9f4;
+  height: 786px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 0 80px 24px;
+  box-sizing: border-box;
+  gap: 92px;
+}
+.untitled-design-2-1 {
+  position: absolute;
+  top: 0;
+  left: 540px;
+  width: 424px;
+  height: 424px;
+  object-fit: cover;
+}
+.x-safety-protocols {
+  font-family: Raleway;
+}
+.x-safety-protocols-container {
+  position: relative;
+  line-height: 100%;
+}
+.x-safety-protocols-wrapper {
+  position: absolute;
+  top: 60px;
+  left: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.monitored-by {
+  font-weight: 300;
+}
+.artificial-intelligence-system {
+  position: relative;
+  font-size: 18px;
+  line-height: 100%;
+}
+.monitored-by-dori-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.reverse-osmosis-ro-container,
+.with-uv-light {
+  position: relative;
+  line-height: 100%;
+  font-weight: 300;
+}
+.reverse-osmosis-ro-container {
+  line-height: 130%;
+}
+.frame-parent21 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.frame-wrapper2 {
+  position: absolute;
+  top: 140px;
+  left: 40px;
+  width: 559px;
+  height: 56px;
+  overflow: hidden;
+  font-size: 28px;
+}
+.learn-more-parent {
+  position: absolute;
+  top: 380px;
+  left: calc(50% - 427px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 20px;
+  color: #4d2c19;
+  font-family: Raleway;
+}
+.untitled-design-2-1-parent {
+  width: 934px;
+  position: relative;
+  border-radius: 24px;
+  background-color: #faf5ff;
+  height: 424px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-child14 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #f5f8ff;
+  width: 450px;
+  height: 338px;
+}
+.locate-clinic-near-you-parent {
+  position: absolute;
+  top: 294px;
+  left: calc(50% - 112px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.clinics-pan-india {
+  margin: 0;
+  font-size: 20px;
+}
+.neighbourhood-clinics-pan-container {
+  position: absolute;
+  top: 23px;
+  left: 84px;
+  line-height: 130%;
+  color: #303030;
+  text-align: center;
+  display: inline-block;
+  width: 249px;
+  font-size: 24px;
+}
+.clinics-icon {
+  position: absolute;
+  height: 35.5%;
+  width: 25.78%;
+  top: 32.54%;
+  right: 39.56%;
+  bottom: 31.95%;
+  left: 34.67%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.frame-child16,
+.rectangle-parent2 {
+  width: 450px;
+  position: relative;
+  height: 338px;
+}
+.frame-child16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #e1f2ee;
+}
+.explore-dentists-nearby-parent {
+  position: absolute;
+  top: 294px;
+  left: calc(50% - 121px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.expert-doctors-covering-container {
+  position: absolute;
+  top: 20px;
+  left: 99px;
+  line-height: 130%;
+  color: #303030;
+  text-align: center;
+  display: inline-block;
+  width: 247px;
+  font-size: 24px;
+}
+.group-icon {
+  position: absolute;
+  top: 125px;
+  left: 152px;
+  width: 123.8px;
+  height: 120px;
+}
+.frame-parent22 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 34px;
+  font-size: 18px;
+  color: #4d2c19;
+  font-family: Raleway;
+}
+.frame-parent20 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 56px;
+  font-family: "Open Sans";
+}
+.frame-parent16 {
+  position: absolute;
+  top: 2150px;
+  left: 0;
+  width: 1920px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 145px;
+  box-sizing: border-box;
+  gap: 36px;
+}
+.in-their-own-words-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-child18 {
+  width: 348px;
+  position: relative;
+  height: 539px;
+  object-fit: cover;
+}
+.braces5,
+.shubham {
+  position: relative;
+  font-weight: 600;
+}
+.braces5 {
+  font-size: 20px;
+  color: #ea7d28;
+}
+.frame-wrapper3,
+.shubham-parent {
+  display: flex;
+  justify-content: flex-start;
+}
+.shubham-parent {
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 9px;
+}
+.frame-wrapper3 {
+  width: 316px;
+  flex-direction: row;
+  align-items: center;
+}
+.rectangle-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 10px;
+  width: 348px;
+  height: 539px;
+  object-fit: cover;
+}
+.shubham5 {
+  position: relative;
+  font-size: 16px;
+  font-weight: 600;
+  color: #ffefe2;
+}
+.consult-now-wrapper,
+.frame-parent31 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.consult-now-wrapper {
+  border-radius: 10px;
+  background-color: #f6841f;
+  justify-content: center;
+  padding: 20px 12px;
+  font-size: 18px;
+  color: #fff;
+  font-family: Raleway;
+}
+.frame-parent31 {
+  position: absolute;
+  top: 470px;
+  left: 16px;
+  width: 316px;
+  justify-content: flex-start;
+  gap: 109px;
+}
+.rectangle-parent4 {
+  width: 348px;
+  position: relative;
+  height: 539px;
+}
+.shubham6 {
+  position: relative;
+  font-size: 16px;
+  font-weight: 600;
+  color: #4d2c19;
+}
+.frame-parent24,
+.frame-parent30 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 24px;
+  font-size: 20px;
+  color: #ea7d28;
+}
+.frame-parent24 {
+  width: 1704px;
+  border-radius: 10px;
+  overflow-x: auto;
+  flex-direction: row;
+  font-size: 16px;
+  color: #4d2c19;
+  font-family: "Open Sans";
+}
+.frame-parent23 {
+  position: absolute;
+  top: 3056px;
+  left: 0;
+  height: 884px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 120px 108px;
+  box-sizing: border-box;
+  gap: 60px;
+}
+.unmatched-dental-excellence-container {
+  width: 640px;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.frame-child23 {
+  width: 101px;
+  position: relative;
+  height: 74px;
+}
+.team-of-specialists {
+  width: 238px;
+  position: relative;
+  line-height: 130%;
+  font-weight: 600;
+  display: inline-block;
+}
+.span {
+  font-weight: 600;
+}
+.orthodontists {
+  position: relative;
+  line-height: 200%;
+}
+.dental-implants-experts {
+  font-size: 20px;
+  color: #303030;
+}
+.child-specialists {
+  width: 199px;
+  position: relative;
+  line-height: 200%;
+  display: inline-block;
+}
+.orthodontists-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 285px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+.frame-wrapper9 {
+  width: 270px;
+  position: relative;
+  height: 25px;
+  overflow: hidden;
+  flex-shrink: 0;
+  color: #ea7d28;
+}
+.team-of-specialists-parent {
+  height: 87px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 21.9px;
+  opacity: 0.9;
+}
+.frame-parent34 {
+  width: 550px;
+  border-radius: 20px;
+  background-color: #fff9f4;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 12px 0;
+  box-sizing: border-box;
+  gap: 60px;
+  font-size: 24px;
+}
+.frame-child24 {
+  width: 78px;
+  position: relative;
+  height: 84px;
+}
+.span5 {
+  font-size: 24px;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: #f6841f;
+}
+.leading-with-80-container {
+  width: 241px;
+  position: relative;
+  line-height: 130%;
+  display: inline-block;
+}
+.frame-parent35 {
+  width: 550px;
+  border-radius: 20px;
+  background-color: #fff9f4;
+  height: 111px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 12px 71px;
+  box-sizing: border-box;
+  gap: 71px;
+}
+.frame-child25 {
+  position: absolute;
+  top: 16.4px;
+  left: 85px;
+  width: 51px;
+  height: 65px;
+}
+.mds-doctors-for-container {
+  position: absolute;
+  top: 28px;
+  left: 220px;
+  line-height: 130%;
+  display: inline-block;
+  width: 298px;
+}
+.frame-parent36 {
+  width: 550px;
+  position: relative;
+  height: 111px;
+}
+.frame-parent33,
+.unmatched-dental-excellence-by-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.frame-parent33 {
+  justify-content: center;
+  gap: 40px;
+  font-size: 20px;
+  color: #4d2c19;
+  font-family: "Open Sans";
+}
+.unmatched-dental-excellence-by-parent {
+  justify-content: flex-start;
+  gap: 60px;
+}
+.frame-child26 {
+  width: 360px;
+  position: relative;
+  border-radius: 20px;
+  height: 360px;
+  object-fit: cover;
+}
+.years-experience {
+  width: 307px;
+  display: inline-block;
+}
+.years-experience,
+.years-experience1 {
+  position: relative;
+  font-size: 20px;
+  line-height: 130%;
+  color: #474747;
+}
+.rectangle-parent6,
+.rectangle-parent7,
+.rectangle-parent8 {
+  position: absolute;
+  top: 0;
+  left: 392px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.rectangle-parent7,
+.rectangle-parent8 {
+  left: 784px;
+}
+.rectangle-parent8 {
+  left: 1176px;
+}
+.frame-parent38 {
+  width: 1041px;
+  position: relative;
+  height: 431px;
+  overflow-x: auto;
+  flex-shrink: 0;
+}
+.frame-parent32,
+.frame-parent37 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent37 {
+  width: 933px;
+  flex-direction: column;
+  gap: 60px;
+  font-size: 24px;
+  font-family: "Open Sans";
+}
+.frame-parent32 {
+  position: absolute;
+  top: 3940px;
+  left: 0;
+  background-color: #fff9f4;
+  flex-direction: row;
+  padding: 80px 108px;
+  gap: 131px;
+}
+.empty-stomatology-orthodontist-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1920px;
+  height: 820px;
+  object-fit: cover;
+}
+.clove-dental {
+  color: #ea7d28;
+}
+.your-smile-our-container {
+  position: relative;
+  line-height: 110%;
+  font-weight: 800;
+}
+.explore-wide-range {
+  width: 943px;
+  position: relative;
+  font-size: 32px;
+  line-height: 130%;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: #4e4e4e;
+  display: inline-block;
+}
+.your-smile-our-priority-at-cl-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.book-appointment-wrapper {
+  width: 462px;
+  border-radius: 50px;
+  background-color: #f8943f;
+  border: 1px solid #de6f0d;
+  box-sizing: border-box;
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 26.3px 55.2px;
+  font-size: 26px;
+  color: #fff;
+}
+.frame-parent40 {
+  position: absolute;
+  top: 188px;
+  left: 0;
+  backdrop-filter: blur(20px);
+  background: linear-gradient(
+    90deg,
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 255, 255, 0.5)
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 60px 380px 60px 163px;
+  gap: 60px;
+}
+.iphone-13-14-11-removebg-p-icon {
+  position: absolute;
+  top: 97px;
+  left: 1266px;
+  width: 558px;
+  height: 723px;
+  object-fit: contain;
+}
+.image-10-icon {
+  width: 123.3px;
+  position: relative;
+  height: 55.2px;
+  object-fit: cover;
+}
+.image-11-icon,
+.untitled-design-1-1 {
+  width: 152.6px;
+  position: relative;
+  height: 33.5px;
+  object-fit: cover;
+}
+.untitled-design-1-1 {
+  width: 96.9px;
+  height: 61.6px;
+}
+.image-10-parent {
+  position: absolute;
+  top: 711.4px;
+  left: 1424px;
+  backdrop-filter: blur(5.87px);
+  border-radius: 30px 0 0 0;
+  background: linear-gradient(
+    93.35deg,
+    rgba(255, 255, 255, 0.5),
+    rgba(255, 255, 255, 0.5)
+  );
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 23.5px 47px;
+  gap: 14.7px;
+}
+.frame-child30,
+.frame-child31 {
+  width: 100px;
+  position: relative;
+  border-radius: 10px;
+  background-color: #4d2c19;
+  height: 10px;
+}
+.frame-child31 {
+  background-color: #f8e4be;
+  height: 6px;
+}
+.rectangle-parent9 {
+  position: absolute;
+  top: 794px;
+  left: calc(50% - 108px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.empty-stomatology-orthodontist-parent {
+  position: absolute;
+  top: 0;
+  left: 1920px;
+  background-color: #c4c4c4;
+  width: 1920px;
+  height: 820px;
+  overflow: hidden;
+}
+.advance-dental-health {
+  width: 985px;
+  position: relative;
+  line-height: 110%;
+  font-weight: 800;
+  display: inline-block;
+}
+.only-at-550- {
+  position: relative;
+  line-height: 130%;
+  color: #303030;
+}
+.dental-care-worth-8000-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.locate-nearest-clove-clinic-parent1 {
+  width: 400px;
+  border-radius: 50px;
+  background-color: #f8943f;
+  border: 1px solid #de6f0d;
+  box-sizing: border-box;
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 26.3px 55.2px;
+  gap: 13.1px;
+  font-size: 24px;
+  color: #fff;
+  font-family: Raleway;
+}
+.frame-parent43 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 60px;
+  font-size: 40px;
+  color: #525252;
+  font-family: "Open Sans";
+}
+.frame-parent42,
+.rectangle-parent10 {
+  position: absolute;
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent42 {
+  top: calc(50% - 216px);
+  left: 0;
+  backdrop-filter: blur(4px);
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 60px 240px 60px 150px;
+  gap: 40px;
+}
+.rectangle-parent10 {
+  bottom: 16px;
+  left: calc(50% - 108px);
+  flex-direction: row;
+  align-items: center;
+  gap: 16px;
+}
+.untitled-design-2 {
+  position: absolute;
+  bottom: 0;
+  left: calc(50% + 175px);
+  width: 578px;
+  height: 615px;
+  object-fit: cover;
+}
+.frame-parent39,
+.frame-parent41 {
+  position: absolute;
+  width: 1920px;
+  overflow: hidden;
+}
+.frame-parent41 {
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #b5c1a6;
+}
+.frame-parent39 {
+  top: 112px;
+  left: calc(50% - 960px);
+  height: 730px;
+  font-size: 72px;
+}
+.happy-patients-icon {
+  width: 41.1px;
+  position: relative;
+  height: 38.3px;
+}
+.l {
+  position: absolute;
+  top: 12px;
+  left: 48px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.l-child {
+  width: 33.3px;
+  position: relative;
+  height: 38.3px;
+}
+.l1 {
+  position: absolute;
+  top: 12px;
+  left: 326px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.clinics-icon1 {
+  width: 34.6px;
+  position: relative;
+  height: 38.3px;
+}
+.l2 {
+  position: absolute;
+  top: 11.7px;
+  left: 547.4px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 12px;
+}
+.simple-line-iconscalender {
+  width: 40px;
+  position: relative;
+  height: 40px;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.l10,
+.l11,
+.l12,
+.l13,
+.l14,
+.l15,
+.l3,
+.l4,
+.l5,
+.l6,
+.l7,
+.l8,
+.l9,
+.simple-line-iconscalender-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.l10,
+.l11,
+.l12,
+.l13,
+.l14,
+.l15,
+.l3,
+.l4,
+.l5,
+.l6,
+.l7,
+.l8,
+.l9 {
+  position: absolute;
+  top: 10px;
+  left: 745px;
+  gap: 12px;
+}
+.l10,
+.l11,
+.l12,
+.l13,
+.l14,
+.l15,
+.l4,
+.l5,
+.l6,
+.l7,
+.l8,
+.l9 {
+  top: 12px;
+  left: 952px;
+}
+.l10,
+.l11,
+.l12,
+.l13,
+.l14,
+.l15,
+.l5,
+.l6,
+.l7,
+.l8,
+.l9 {
+  left: 1230px;
+}
+.l10,
+.l11,
+.l12,
+.l13,
+.l14,
+.l15,
+.l6,
+.l7,
+.l8,
+.l9 {
+  top: 11.7px;
+  left: 1451.5px;
+}
+.l10,
+.l11,
+.l12,
+.l13,
+.l14,
+.l15,
+.l7,
+.l8,
+.l9 {
+  top: 10px;
+  left: 1649.1px;
+}
+.l10,
+.l11,
+.l12,
+.l13,
+.l14,
+.l15,
+.l8,
+.l9 {
+  top: 12px;
+  left: 1856px;
+}
+.l10,
+.l11,
+.l12,
+.l13,
+.l14,
+.l15,
+.l9 {
+  top: 11.7px;
+  left: 2134.2px;
+}
+.l10,
+.l11,
+.l12,
+.l13,
+.l14,
+.l15 {
+  left: 2355.5px;
+}
+.l11,
+.l12,
+.l13,
+.l14,
+.l15 {
+  top: 10px;
+  left: 2553.1px;
+}
+.l12,
+.l13,
+.l14,
+.l15 {
+  top: 12px;
+  left: 2760px;
+}
+.l13,
+.l14,
+.l15 {
+  top: 11.7px;
+  left: 3038.2px;
+}
+.l14,
+.l15 {
+  left: 3259.5px;
+}
+.l15 {
+  top: 10px;
+  left: 3457.1px;
+}
+.component-11 {
+  position: absolute;
+  top: 4677px;
+  left: calc(50% - 960px);
+  background-color: #ffefe2;
+  width: 1920px;
+  height: 60px;
+  overflow: hidden;
+  font-size: 18px;
+  color: #c96a34;
+  font-family: "Open Sans";
+}
+.ellipse-div {
+  width: 40px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #ffe5b3;
+  height: 40px;
+  z-index: 0;
+}
+.frame-child34 {
+  width: 20px;
+  position: absolute;
+  margin: 0 !important;
+  top: 20px;
+  left: 11px;
+  max-height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+.ellipse-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 10px;
+}
+.frame-child36 {
+  width: 20px;
+  position: absolute;
+  margin: 0 !important;
+  top: 20px;
+  left: 9px;
+  max-height: 100%;
+  z-index: 1;
+}
+.frame-parent45 {
+  position: absolute;
+  top: 700px;
+  left: 1712px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.image-433-icon,
+.image-434-icon {
+  position: absolute;
+  top: -467px;
+  left: -94px;
+  width: 1344px;
+  height: 896px;
+  object-fit: cover;
+}
+.image-434-icon {
+  top: 0;
+  left: 0;
+  width: 1156px;
+  height: 640px;
+}
+.rigid-4-step-sterilization-container {
+  position: absolute;
+  top: 176px;
+  left: 44px;
+  line-height: 130%;
+  font-weight: 300;
+  font-family: "Open Sans";
+  display: inline-block;
+  width: 455px;
+}
+.assuring-cleanliness {
+  position: absolute;
+  top: 59px;
+  left: 40px;
+  font-size: 50px;
+  line-height: 120%;
+  display: inline-block;
+  width: 309px;
+}
+.learn-more-group {
+  position: absolute;
+  top: 270px;
+  left: calc(50% - 227.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 20px;
+  color: #ea7d28;
+}
+.frame-child38 {
+  position: absolute;
+  top: 115px;
+  left: 389px;
+  width: 110px;
+  height: 0;
+}
+.rigid-4-step-sterilization-pro-parent {
+  position: absolute;
+  top: calc(50% - 173px);
+  left: 100px;
+  border-radius: 24px;
+  background-color: #112230;
+  width: 543px;
+  height: 346px;
+}
+.image-433-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 24px;
+  background-color: #fff9f4;
+  width: 1156px;
+  height: 640px;
+  overflow: hidden;
+}
+.frame-wrapper11 {
+  width: 1156px;
+  position: relative;
+  height: 640px;
+  flex-shrink: 0;
+}
+.image-433-icon1 {
+  position: absolute;
+  top: -52px;
+  left: -94px;
+  width: 1344px;
+  height: 896px;
+  object-fit: cover;
+}
+.our-ai-powered-container {
+  position: absolute;
+  top: 160px;
+  left: 44px;
+  line-height: 130%;
+  font-weight: 300;
+  display: inline-block;
+  width: 455px;
+}
+.experience {
+  position: absolute;
+  top: 44px;
+  left: 40px;
+  line-height: 130%;
+}
+.aips,
+.learn-more-container {
+  position: absolute;
+  font-family: Raleway;
+}
+.aips {
+  top: 77px;
+  left: 40px;
+  font-size: 50px;
+  line-height: 120%;
+}
+.learn-more-container {
+  top: 283px;
+  left: calc(50% - 227.5px);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 20px;
+  color: #ea7d28;
+}
+.frame-child40 {
+  position: absolute;
+  top: 98px;
+  left: 188px;
+  max-height: 100%;
+  width: 110px;
+}
+.our-ai-powered-sterilization-parent {
+  position: absolute;
+  top: calc(50% - 173px);
+  left: 100px;
+  border-radius: 24px;
+  background-color: #36261d;
+  width: 543px;
+  height: 346px;
+}
+.frame-wrapper12 {
+  width: 1156px;
+  position: relative;
+  height: 640px;
+  flex-shrink: 0;
+  font-family: "Open Sans";
+}
+.image-433-icon2 {
+  position: absolute;
+  top: 0;
+  left: -255px;
+  width: 1432px;
+  height: 955px;
+  object-fit: contain;
+}
+.x-safety-protocols1 {
+  position: absolute;
+  top: 202px;
+  left: 44px;
+  line-height: 130%;
+  font-weight: 300;
+  font-family: "Open Sans";
+  display: inline-block;
+  width: 455px;
+}
+.uncompromised-safety {
+  position: relative;
+  line-height: 120%;
+}
+.learn-more-parent1,
+.uncompromised-safety-wrapper {
+  position: absolute;
+  display: flex;
+  justify-content: flex-start;
+}
+.uncompromised-safety-wrapper {
+  top: 48px;
+  left: 44px;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: 50px;
+}
+.learn-more-parent1 {
+  top: 292px;
+  left: calc(50% - 227.5px);
+  flex-direction: row;
+  align-items: center;
+  gap: 16px;
+  font-size: 20px;
+  color: #ea7d28;
+}
+.frame-child42 {
+  position: absolute;
+  top: 134px;
+  left: 236px;
+  max-height: 100%;
+  width: 263px;
+}
+.x-safety-protocols-for-a-secur-parent {
+  position: absolute;
+  top: calc(50% - 173px);
+  left: 100px;
+  border-radius: 24px;
+  background-color: #433943;
+  width: 543px;
+  height: 346px;
+}
+.frame-parent46 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 960px);
+  width: 1920px;
+  overflow-x: auto;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 40px;
+}
+.frame-parent44 {
+  width: 1920px;
+  position: relative;
+  height: 740px;
+  font-size: 24px;
+  color: #fff;
+}
+.journey-through-knowledge {
+  align-self: stretch;
+  position: relative;
+  line-height: 130%;
+}
+.general-dentistry {
+  position: relative;
+  line-height: 130%;
+  font-family: Raleway;
+  color: #ea7d28;
+}
+.frame-child43 {
+  width: 1.3px;
+  position: relative;
+  border-right: 1.3px solid #afafaf;
+  box-sizing: border-box;
+  height: 31.3px;
+}
+.general-dentistry-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 24px;
+  color: #878787;
+  font-family: "Open Sans";
+}
+.journey-through-knowledge-blo-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.frame-child49 {
+  width: 144px;
+  position: relative;
+  border-radius: 12px;
+  height: 144px;
+  object-fit: contain;
+}
+.dry-sockets-demystified {
+  width: 372px;
+  position: relative;
+  line-height: 130%;
+  font-weight: 600;
+  display: inline-block;
+}
+.frame-child50 {
+  width: 1px;
+  position: relative;
+  border-right: 1px solid #7c7c7c;
+  box-sizing: border-box;
+  height: 15px;
+}
+.th-feb-2024-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 10px;
+  font-size: 18px;
+  color: #7c7c7c;
+}
+.dry-sockets-demystified-under-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: space-between;
+  padding: 8px 0;
+}
+.frame-parent52 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 24px;
+}
+.frame-parent50,
+.frame-wrapper15 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent50 {
+  flex-direction: column;
+  gap: 72px;
+}
+.frame-wrapper15 {
+  overflow-x: auto;
+  flex-direction: row;
+}
+.frame-child73 {
+  width: 144px;
+  position: relative;
+  border-radius: 12.43px;
+  height: 139.9px;
+  object-fit: contain;
+}
+.frame-parent59 {
+  width: 1700px;
+  overflow-x: auto;
+  flex-shrink: 0;
+  align-items: flex-start;
+  gap: 142px;
+}
+.frame-parent49,
+.frame-parent59,
+.frame-parent98 {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.frame-parent49 {
+  width: 1704px;
+  overflow: hidden;
+  align-items: center;
+  gap: 40px;
+}
+.frame-parent98 {
+  align-items: flex-start;
+  gap: 20px;
+}
+.book-an-appointment,
+.frame-parent97,
+.search-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.search-group {
+  gap: 16px;
+}
+.book-an-appointment,
+.frame-parent97 {
+  align-self: stretch;
+}
+.frame-parent97 {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 40px;
+  color: #4d2c19;
+  font-family: Raleway;
+}
+.frame-parent48 {
+  width: 1704px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 40px;
+  text-align: left;
+  font-size: 24px;
+  font-family: "Open Sans";
+}
+.frame-parent47,
+.frame-parent48,
+.frame-wrapper14 {
+  display: flex;
+  flex-direction: column;
+}
+.frame-parent47 {
+  background-color: #fff9f4;
+  align-items: flex-end;
+  justify-content: center;
+  padding: 60px 108px;
+  gap: 72px;
+}
+.frame-wrapper14 {
+  height: 1034px;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 100px 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+.frame-child114 {
+  position: absolute;
+  top: 0;
+  left: 115px;
+  border-radius: 30px;
+  width: 1690px;
+  height: 550px;
+  object-fit: cover;
+}
+.b2 {
+  position: relative;
+  letter-spacing: 0.01em;
+  line-height: 100%;
+}
+.corporate-trust-us {
+  position: relative;
+  font-size: 40px;
+  line-height: 130%;
+  font-family: Raleway;
+  color: #000;
+}
+.check-if-your {
+  position: relative;
+  font-size: 24px;
+  line-height: 130%;
+  color: #474747;
+}
+.image-445-icon,
+.pngegg-1-1,
+.pngegg-1-icon {
+  width: 218px;
+  position: relative;
+  height: 72px;
+  object-fit: cover;
+}
+.image-445-icon,
+.pngegg-1-1 {
+  width: 176px;
+}
+.image-445-icon {
+  width: 41.3px;
+}
+.a393285c488ac6062ac2af9-1-icon,
+.daco-1257552-1-icon,
+.image-444-icon {
+  width: 356.4px;
+  position: relative;
+  height: 72px;
+  object-fit: cover;
+}
+.daco-1257552-1-icon,
+.image-444-icon {
+  width: 129.6px;
+}
+.daco-1257552-1-icon {
+  width: 180px;
+  border-radius: 470px;
+}
+.a8b346b-4fe8-4b15-9f7f-ae1d566-icon,
+.pngegg-2-1 {
+  width: 65.2px;
+  position: relative;
+  height: 72px;
+  object-fit: cover;
+}
+.a8b346b-4fe8-4b15-9f7f-ae1d566-icon {
+  width: 306px;
+}
+.pngegg-1-container,
+.pngegg-1-group,
+.pngegg-1-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 80px;
+}
+.pngegg-1-container,
+.pngegg-1-group {
+  left: 2112.5px;
+}
+.pngegg-1-container {
+  left: 4225px;
+}
+.frame-parent102 {
+  width: 1260px;
+  position: relative;
+  height: 72px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.frame-parent100 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 61px;
+}
+.locate-nearest-clove-clinic-parent2,
+.register-your-company-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.locate-nearest-clove-clinic-parent2 {
+  width: 400px;
+  border-radius: 50px;
+  background-color: #f8943f;
+  border: 1px solid #de6f0d;
+  box-sizing: border-box;
+  height: 72px;
+  padding: 26.3px 55.2px;
+  gap: 13.1px;
+}
+.register-your-company-parent {
+  height: 14px;
+  gap: 16px;
+  color: #4d2c19;
+}
+.frame-parent99,
+.instance-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 62px;
+}
+.instance-group {
+  align-self: stretch;
+  font-size: 24px;
+  color: #fff;
+  font-family: Raleway;
+}
+.frame-parent99 {
+  position: absolute;
+  top: 355px;
+  left: 240px;
+  box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.25);
+  border-radius: 20px;
+  background-color: #fff;
+  width: 1440px;
+  padding: 40px 60px;
+  box-sizing: border-box;
+}
+.rectangle-parent11 {
+  width: 1920px;
+  position: relative;
+  height: 938px;
+  font-size: 72px;
+  color: #ea7d28;
+  font-family: "Open Sans";
+}
+.beyond-dentistry-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 24px;
+}
+.layer-2-icon {
+  width: 117px;
+  position: relative;
+  height: 65px;
+}
+.frame-wrapper17,
+.layer-2-parent {
+  width: 220px;
+  height: 136.8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-wrapper17 {
+  width: 300px;
+  border-radius: 10px;
+  background-color: #fff;
+  height: 233px;
+  flex-direction: row;
+  justify-content: center;
+  padding: 40px 30px;
+  box-sizing: border-box;
+}
+.layer-2-icon1 {
+  width: 132.6px;
+  position: relative;
+  height: 65px;
+}
+.layer-2-group {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 54px;
+}
+.layer-2-icon2 {
+  width: 76.4px;
+  position: relative;
+  height: 80px;
+}
+.frame-wrapper19,
+.layer-2-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.layer-2-container {
+  flex-direction: column;
+  gap: 40px;
+}
+.frame-wrapper19 {
+  width: 300px;
+  border-radius: 10px;
+  background-color: #fff;
+  height: 233px;
+  flex-direction: row;
+  padding: 40px 30px;
+  box-sizing: border-box;
+  text-align: left;
+}
+.layer-2-icon3 {
+  width: 59.9px;
+  position: relative;
+  height: 80px;
+}
+.frame-parent103,
+.frame-parent104,
+.frame-wrapper16 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent104 {
+  flex-direction: row;
+  gap: 80px;
+  text-align: center;
+  font-size: 24px;
+  font-family: "Open Sans";
+}
+.frame-parent103,
+.frame-wrapper16 {
+  flex-direction: column;
+}
+.frame-parent103 {
+  border-radius: 30px;
+  background-color: #fff9f4;
+  padding: 100px 125px;
+  gap: 60px;
+}
+.frame-wrapper16 {
+  padding: 80px 115px;
+}
+.can-i-choose {
+  width: 507px;
+  position: relative;
+  line-height: 130%;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.vector-icon2 {
+  width: 16px;
+  position: relative;
+  height: 16px;
+}
+.can-i-choose-the-dentist-on-my-parent {
+  width: 698px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-child116 {
+  width: 700px;
+  position: relative;
+  border-top: 2px solid #ececec;
+  box-sizing: border-box;
+  height: 2px;
+}
+.how-you-are,
+.will-i-get {
+  width: 576px;
+  position: relative;
+  line-height: 130%;
+  font-weight: 600;
+  display: inline-block;
+  flex-shrink: 0;
+}
+.how-you-are {
+  width: 642px;
+}
+.frame-parent106,
+.how-you-are-able-to-provide-le-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.frame-parent106 {
+  flex-direction: column;
+  gap: 32px;
+}
+.can-i-choose-the-dentist-on-my-group {
+  width: 698px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 0;
+}
+.frame-child118 {
+  width: 700px;
+  position: relative;
+  border-top: 2px solid #ececec;
+  box-sizing: border-box;
+  height: 2px;
+  z-index: 1;
+}
+.will-i-get-the-same-doctor-eac-group {
+  width: 698px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 2;
+}
+.frame-child119 {
+  width: 700px;
+  position: relative;
+  border-top: 2px solid #ececec;
+  box-sizing: border-box;
+  height: 2px;
+  z-index: 3;
+}
+.how-you-are-able-to-provide-le-group {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+  z-index: 4;
+}
+.frame-child120 {
+  width: 698px;
+  margin: 0 !important;
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 16px;
+  z-index: 5;
+}
+.frame-parent105,
+.frame-parent107 {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent107 {
+  flex-direction: column;
+  position: relative;
+  gap: 32px;
+}
+.frame-parent105 {
+  flex-direction: row;
+  gap: 104px;
+  font-size: 24px;
+  font-family: "Open Sans";
+}
+.frame-wrapper21,
+.frequently-asked-questions-parent {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.frequently-asked-questions-parent {
+  align-items: flex-start;
+  gap: 80px;
+}
+.frame-wrapper21 {
+  align-items: center;
+  padding: 80px 210px;
+}
+.treatments {
+  width: 233px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+}
+.laser-dentistery {
+  position: relative;
+  line-height: 150%;
+  font-weight: 300;
+}
+.laser-dentistery-parent,
+.treatments-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.laser-dentistery-parent {
+  gap: 27px;
+  font-size: 24px;
+  font-family: "Open Sans";
+}
+.treatments-parent {
+  position: absolute;
+  top: 80px;
+  left: 228px;
+  gap: 40px;
+}
+.book-appointments,
+.quick-links {
+  width: 232px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+}
+.book-appointments {
+  width: 223px;
+  line-height: 150%;
+  font-weight: 300;
+}
+.home-parent,
+.quick-links-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.home-parent {
+  width: 163px;
+  gap: 27px;
+  font-size: 24px;
+  font-family: "Open Sans";
+}
+.quick-links-parent {
+  position: absolute;
+  top: 80px;
+  left: 552px;
+  gap: 40px;
+}
+.explore-clove {
+  width: 259px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+}
+.explore-clove-parent {
+  position: absolute;
+  top: 80px;
+  left: 860px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.legal {
+  width: 111px;
+  position: relative;
+  font-weight: 500;
+  display: inline-block;
+}
+.legal-parent {
+  position: absolute;
+  top: 80px;
+  left: 1195px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.frame-child121,
+.frame-child122 {
+  width: 36px;
+  position: relative;
+  height: 36px;
+}
+.frame-child122 {
+  width: 52px;
+}
+.connect-with-us-parent,
+.group-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 48px;
+}
+.connect-with-us-parent {
+  position: absolute;
+  top: 80px;
+  left: 1448px;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 40px;
+}
+.all-rights-reserved {
+  position: absolute;
+  top: 873px;
+  left: calc(50% - 523px);
+  font-size: 24px;
+  line-height: 130%;
+  font-weight: 300;
+  font-family: "Open Sans";
+  color: #9f9f9f;
+}
+.clove-logo-icon {
+  position: absolute;
+  top: 491px;
+  left: 606.1px;
+  width: 813.9px;
+  height: 322px;
+  overflow: hidden;
+  opacity: 0.18;
+}
+.frame-parent108 {
+  width: 1920px;
+  position: relative;
+  background-color: #3d2010;
+  height: 930px;
+  font-size: 36px;
+  color: #ffefe2;
+}
+.instance-parent {
+  position: absolute;
+  top: 4816px;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.group-child {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  border-radius: 50%;
+  background-color: #f8943f;
+  width: 100px;
+  height: 100px;
+}
+.frame-child123 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8.33px;
+  background-color: #fff;
+  border: 1.7px solid #000;
+  box-sizing: border-box;
+  width: 38.3px;
+  height: 28.3px;
+}
+.frame-child124 {
+  width: 5px;
+  position: relative;
+  border-radius: 50%;
+  background-color: #f8943f;
+  height: 5px;
+}
+.ellipse-parent2 {
+  position: absolute;
+  top: 11.7px;
+  left: 8.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.3px;
+}
+.frame-child127 {
+  position: absolute;
+  top: 6.7px;
+  left: 20px;
+  border-radius: 8.33px;
+  background-color: #fff;
+  border: 1.7px solid #000;
+  box-sizing: border-box;
+  width: 38.3px;
+  height: 28.3px;
+}
+.ellipse-parent3 {
+  position: absolute;
+  top: 18.3px;
+  left: 28.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 3.3px;
+}
+.group-div,
+.rectangle-parent12 {
+  position: absolute;
+  right: 21.7px;
+  bottom: 31.7px;
+  width: 58.3px;
+  height: 35px;
+}
+.group-div {
+  right: 60px;
+  bottom: 20px;
+  width: 100px;
+  height: 100px;
+}
+.clove-logo-icon1 {
+  width: 199px;
+  position: relative;
+  height: 80px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.vector-icon9 {
+  width: 16px;
+  position: relative;
+  height: 9px;
+}
+.treatments-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 0;
+  gap: 16px;
+}
+.frame-child131 {
+  width: 1px;
+  position: relative;
+  border-right: 1px solid #4d2c19;
+  box-sizing: border-box;
+  height: 25px;
+}
+.frame-parent110,
+.our-doctors-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.our-doctors-wrapper {
+  justify-content: center;
+  padding: 20px 0;
+}
+.frame-parent110 {
+  width: 768px;
+  height: 57px;
+  justify-content: flex-end;
+  gap: 20px;
+}
+.book-an-appointment1 {
+  width: 30px;
+  position: relative;
+  height: 33px;
+}
+.book-an-appointment-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 50px;
+  background-color: #f8943f;
+  border: 1px solid #de6f0d;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 18px 24px;
+  gap: 16px;
+}
+.instance-child {
+  position: absolute;
+  top: -163px;
+  left: -65px;
+  width: 213.4px;
+  height: 213.4px;
+}
+.frame-parent111 {
+  width: 289px;
+  position: relative;
+  height: 69px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.get-a-call-back,
+.vector-icon11 {
+  width: 19px;
+  position: relative;
+  height: 33px;
+}
+.vector-icon11 {
+  width: 21.3px;
+  height: 12px;
+}
+.get-a-call-back-parent {
+  width: 178px;
+  border-radius: 70px;
+  background-color: #ffefe2;
+  border: 2px solid #fbbe9c;
+  box-sizing: border-box;
+  align-items: center;
+  padding: 18px 20px;
+  gap: 16px;
+  color: #4d2c19;
+}
+.clove-logo-parent,
+.frame-parent109,
+.get-a-call-back-parent,
+.instance-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.instance-container {
+  align-items: flex-start;
+  gap: 40px;
+  color: #fff;
+}
+.clove-logo-parent,
+.frame-parent109 {
+  align-items: center;
+  gap: 60px;
+}
+.clove-logo-parent {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 960px);
+  background-color: #fff1e6;
+  padding: 16px 108px;
+  gap: 170px;
+  font-size: 22px;
+  color: #464646;
+}
+.final {
+  width: 100%;
+  position: relative;
+  background-color: #fff;
+  height: 9901px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 40px;
+  color: #303030;
+  font-family: Raleway;
+}
+.north-india {
+  position: relative;
+  line-height: 120%;
+  font-weight: 600;
+}
+.north-india-wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.div {
+  position: relative;
+  font-size: 20px;
+  line-height: 120%;
+  font-family: "Open Sans";
+}
+.frame-parent113 {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.frame-child135 {
+  width: 40.2px;
+  position: relative;
+  height: 53.9px;
+  object-fit: contain;
+}
+.frame-parent112 {
+  width: 400px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+}
+.frame-child136 {
+  width: 332px;
+  position: relative;
+  border-top: 2px solid #ffc591;
+  box-sizing: border-box;
+  height: 2px;
+}
+.frame-child137 {
+  width: 41.3px;
+  position: relative;
+  height: 55.3px;
+  object-fit: contain;
+}
+.frame-child139 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4.56px;
+  background-color: #ffe3ad;
+  width: 45.6px;
+  height: 35px;
+}
+.group-icon1 {
+  position: absolute;
+  height: 95.89%;
+  width: 96.82%;
+  top: 4.11%;
+  right: 0;
+  bottom: 0;
+  left: 3.18%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rectangle-parent13 {
+  width: 47.1px;
+  position: relative;
+  height: 36.5px;
+}
+.frame-root {
+  position: relative;
+  border-radius: 20px;
+  background-color: #fffaf5;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 40px;
+  box-sizing: border-box;
+  gap: 32px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: 24px;
+  color: #303030;
+  font-family: Raleway;
+}
+.book-your-consultation {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 130%;
+}
+.please-fill-out {
+  position: relative;
+  font-size: 24px;
+  font-family: "Open Sans";
+}
+.book-your-consultation-at-clov-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.step-1-personal {
+  align-self: stretch;
+  position: relative;
+  font-size: 32px;
+  letter-spacing: 0.02em;
+  line-height: 130%;
+  font-weight: 600;
+  color: #ea7d28;
+}
+.frame-child140,
+.frame-child141 {
+  position: absolute;
+  background-color: #fff;
+}
+.frame-child140 {
+  top: 0;
+  left: 0;
+  border-radius: 80px;
+  border: 1.6px solid #afafaf;
+  box-sizing: border-box;
+  width: 400px;
+  height: 72px;
+}
+.frame-child141 {
+  top: -8px;
+  left: 34px;
+  width: 109px;
+  height: 10px;
+}
+.amit,
+.full-name {
+  position: absolute;
+  top: -8.1px;
+  left: 39px;
+  font-weight: 500;
+}
+.amit {
+  top: 25px;
+  left: 32px;
+  font-size: 28px;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: #5e5e5e;
+}
+.rectangle-parent14 {
+  width: 400px;
+  position: relative;
+  height: 72px;
+}
+.mobile {
+  position: absolute;
+  top: 28px;
+  left: 32px;
+}
+.rectangle-parent15 {
+  width: 400px;
+  position: relative;
+  height: 72px;
+  font-size: 24px;
+  color: #a0a0a0;
+  font-family: "Open Sans";
+}
+.frame-parent119 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 50px;
+}
+.frame-child145 {
+  position: absolute;
+  top: 1px;
+  left: 271px;
+  border-radius: 0 90px 90px 0;
+  background-color: #f8943f;
+  width: 128px;
+  height: 70px;
+}
+.verify {
+  position: absolute;
+  top: 28px;
+  left: 303px;
+  font-weight: 500;
+  font-family: Raleway;
+  color: #fff;
+}
+.rectangle-parent17 {
+  align-self: stretch;
+  position: relative;
+  height: 72px;
+}
+.frame-parent120 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 50px;
+  font-size: 24px;
+  color: #a0a0a0;
+  font-family: "Open Sans";
+}
+.frame-parent118 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+  font-size: 20px;
+  color: #888;
+}
+.next {
+  position: relative;
+  font-weight: 500;
+}
+.component-18,
+.component-6,
+.next-wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.next-wrapper {
+  border-radius: 30px;
+  background-color: #f8943f;
+  flex-direction: row;
+}
+.component-18,
+.component-6 {
+  box-sizing: border-box;
+}
+.component-6 {
+  width: 321px;
+  border-radius: 58px;
+  background-color: #f8943f;
+  border: 1px solid #de6f0d;
+  height: 72px;
+  overflow: hidden;
+  flex-shrink: 0;
+  flex-direction: row;
+  padding: 20px 120px;
+  font-size: 24px;
+  color: #fff;
+}
+.component-18 {
+  width: 960px;
+  position: relative;
+  border-radius: 40px;
+  background-color: #fff;
+  flex-direction: column;
+  padding: 60px;
+  gap: 60px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: 40px;
+  color: #303030;
+  font-family: Raleway;
+}
+.frame-child146 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #fffaf5;
+}
+.advance-gum-treatments {
+  position: relative;
+  line-height: 130%;
+}
+.instance-item {
+  width: 18px;
+  position: relative;
+  max-height: 100%;
+}
+.advance-gum-treatments-parent {
+  width: 316px;
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: 16px;
+  box-sizing: border-box;
+}
+.instance-parent1 {
+  position: absolute;
+  top: 40px;
+  left: 460px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.advance-gum-treatments-parent3 {
+  width: 316px;
+  height: 58px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 16px;
+  box-sizing: border-box;
+  gap: 26px;
+}
+.instance-parent2 {
+  position: absolute;
+  top: 40px;
+  left: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.locate-nearest-clove5 {
+  position: relative;
+  font-weight: 500;
+}
+.icon5 {
+  width: 14.1px;
+  position: relative;
+  border-radius: 0.14px;
+  height: 14.1px;
+  display: none;
+}
+.locate-nearest-clove-clinic-parent3 {
+  width: 316px;
+  border-radius: 34.2px;
+  background-color: #f8943f;
+  border: 0.7px solid #de6f0d;
+  box-sizing: border-box;
+  height: 49px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 18px 37.7px;
+  gap: 9px;
+  color: #fff;
+}
+.instance-parent3 {
+  position: absolute;
+  top: 40px;
+  left: 880px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.rectangle-root {
+  width: 1260px;
+  position: relative;
+  border-radius: 20px;
+  background-color: #fff8f2;
+  border: 1px solid #eed8c5;
+  box-sizing: border-box;
+  height: 434px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 20px;
+  color: #474747;
+  font-family: Raleway;
+}
+.clove-dental-corporate,
+.welcome-if-your {
+  position: relative;
+  line-height: 130%;
+}
+.welcome-if-your {
+  width: 1016px;
+  font-size: 24px;
+  font-family: "Open Sans";
+  color: #474747;
+  display: inline-block;
+}
+.clove-dental-corporate-consult-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+  font-family: Raleway;
+}
+.step-1-employment {
+  align-self: stretch;
+  position: relative;
+  font-size: 28px;
+  line-height: 130%;
+  color: #ea7d28;
+}
+.frame-child147,
+.frame-child148 {
+  position: absolute;
+  background-color: #fff;
+}
+.frame-child147 {
+  top: 0;
+  left: 0;
+  border-radius: 80px;
+  border: 1.6px solid #afafaf;
+  box-sizing: border-box;
+  width: 500px;
+  height: 72px;
+}
+.frame-child148 {
+  top: -8px;
+  left: 34px;
+  width: 109px;
+  height: 10px;
+}
+.amit1,
+.full-name1 {
+  position: absolute;
+  top: -8.1px;
+  left: 39px;
+  font-weight: 500;
+}
+.amit1 {
+  top: 25px;
+  left: 32px;
+  font-size: 28px;
+  font-weight: 600;
+  font-family: "Open Sans";
+  color: #5e5e5e;
+}
+.rectangle-parent18 {
+  width: 500px;
+  position: relative;
+  height: 72px;
+  font-size: 20px;
+  color: #888;
+  font-family: Raleway;
+}
+.employee-id {
+  position: absolute;
+  top: 28px;
+  left: 32px;
+}
+.rectangle-parent19 {
+  width: 500px;
+  position: relative;
+  height: 72px;
+}
+.frame-parent123 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 32px;
+}
+.select-company {
+  position: absolute;
+  top: 28px;
+  left: 32px;
+  white-space: pre-wrap;
+}
+.frame-child154,
+.vector-icon12 {
+  position: absolute;
+  top: 29px;
+  left: 444px;
+  width: 26px;
+  height: 15px;
+}
+.frame-child154 {
+  top: 1px;
+  left: 371px;
+  border-radius: 0 90px 90px 0;
+  background-color: #f8943f;
+  width: 128px;
+  height: 70px;
+}
+.verify1 {
+  position: absolute;
+  top: 28px;
+  left: 403px;
+  font-weight: 500;
+  font-family: Raleway;
+  color: #fff;
+}
+.frame-parent122 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 40px;
+}
+.next1 {
+  position: relative;
+  font-weight: 500;
+}
+.component-61,
+.next-container {
+  border-radius: 30px;
+  background-color: #f8943f;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.component-61 {
+  width: 321px;
+  border-radius: 58px;
+  border: 1px solid #de6f0d;
+  box-sizing: border-box;
+  height: 72px;
+  overflow: hidden;
+  flex-shrink: 0;
+  padding: 20px 120px;
+  color: #fff;
+  font-family: Raleway;
+}
+.frame-parent121,
+.property-1frame-52476 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.frame-parent121 {
+  gap: 48px;
+  font-size: 24px;
+  color: #a0a0a0;
+}
+.property-1frame-52476 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 40px;
+  background-color: #fff;
+  padding: 60px;
+  gap: 60px;
+}
+.icon6 {
+  position: absolute;
+  top: 19px;
+  left: 438px;
+  width: 30px;
+  height: 34px;
+}
+.frame-parent127 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 32px;
+}
+.frame-child158 {
+  width: 9px;
+  position: relative;
+  height: 6px;
+  opacity: 0;
+}
+.checkbox-inner {
+  position: absolute;
+  top: calc(50% - 9px);
+  left: calc(50% - 9px);
+  border-radius: 2px;
+  border: 2px solid #de6f0d;
+  box-sizing: border-box;
+  width: 18px;
+  height: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 8px;
+}
+.checkbox {
+  width: 18px;
+  position: relative;
+  height: 18px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.by-clicking-submit {
+  flex: 1;
+  position: relative;
+  line-height: 130%;
+}
+.checkbox-parent {
+  width: 1000px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 20px;
+  color: #717171;
+}
+.frame-parent126 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 32px;
+}
+.icon7 {
+  width: 20.6px;
+  position: relative;
+  border-radius: 0.2px;
+  height: 20.6px;
+  display: none;
+}
+.locate-nearest-clove-clinic-parent4 {
+  width: 500px;
+  border-radius: 50px;
+  background-color: #f8943f;
+  border: 1px solid #de6f0d;
+  box-sizing: border-box;
+  height: 72px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 26.3px 55.2px;
+  gap: 13.1px;
+  color: #fff;
+  font-family: Raleway;
+}
+.frame-parent125 {
+  align-self: stretch;
+  gap: 40px;
+}
+.frame-parent125,
+.property-1frame-52477,
+.property-1frame-52477-inner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.property-1frame-52477-inner {
+  align-self: stretch;
+  font-size: 24px;
+  color: #a0a0a0;
+}
+.property-1frame-52477 {
+  position: absolute;
+  top: 0;
+  left: 1160px;
+  border-radius: 40px;
+  background-color: #fff;
+  width: 1160px;
+  height: 751px;
+  padding: 60px;
+  box-sizing: border-box;
+  gap: 60px;
+}
+.property-1frame-52476-parent {
+  width: 1160px;
+  position: relative;
+  height: 792px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 40px;
+  color: #303030;
+  font-family: "Open Sans";
+}
+.frame-child159,
+.frame-child160,
+.frame-child161 {
+  position: absolute;
+  top: 90px;
+  left: 808px;
+  width: 348px;
+  height: 539px;
+  object-fit: cover;
+}
+.frame-child160,
+.frame-child161 {
+  left: 110px;
+}
+.frame-child161 {
+  top: 0;
+  left: 428px;
+  border-radius: 10px;
+  width: 410px;
+  height: 720px;
+}
+.frame-child162,
+.frame-child163 {
+  position: absolute;
+  top: 319px;
+  left: 1218px;
+  width: 50px;
+  height: 101.5px;
+}
+.frame-child163 {
+  left: 0;
+  object-fit: contain;
+}
+.frame-top {
+  width: 1268px;
+  position: relative;
+  height: 720px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+}
+.root-canal-wrapper {
+  width: 500px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 20px 40px;
+  box-sizing: border-box;
+}
+.crown-bridges {
+  position: relative;
+}
+.frame-parent130 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 330px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 10px 0;
+  box-sizing: border-box;
+}
+.frame-child164,
+.frame-child165 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 2px;
+  background-color: #fcf6eb;
+  width: 10px;
+  height: 290px;
+}
+.frame-child165 {
+  background-color: #fabd87;
+  height: 85px;
+}
+.rectangle-parent27 {
+  position: absolute;
+  top: 20px;
+  right: 24px;
+  width: 10px;
+  height: 250px;
+}
+.frame-parent129 {
+  width: 400px;
+  border-radius: 20px;
+  background-color: #fff;
+  border: 1px solid #afafaf;
+  box-sizing: border-box;
+  height: 330px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 20px;
+  color: #303030;
+  font-family: "Open Sans";
+}
+.ahemdabad,
+.frame-parent129 {
+  position: relative;
+}
+.ahemdabad-wrapper,
+.frame-parent132 {
+  display: flex;
+  justify-content: flex-start;
+  box-sizing: border-box;
+}
+.ahemdabad-wrapper {
+  width: 500px;
+  background-color: #fff;
+  flex-direction: row;
+  align-items: center;
+  padding: 20px 40px;
+}
+.frame-parent132 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 330px;
+  overflow-y: auto;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 10px 0;
+}
+.frame-child166,
+.frame-child167 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 2px;
+  background-color: #fcf6eb;
+  width: 10px;
+  height: 290px;
+}
+.frame-child167 {
+  background-color: #fabd87;
+  height: 85px;
+}
+.rectangle-parent28 {
+  position: absolute;
+  top: 20px;
+  right: 24px;
+  width: 10px;
+  height: 250px;
+}
+.frame-parent131 {
+  width: 400px;
+  position: relative;
+  border-radius: 20px;
+  background-color: #fff;
+  border: 1px solid #afafaf;
+  box-sizing: border-box;
+  height: 330px;
+  overflow: hidden;
+  max-width: 90%;
+  max-height: 90%;
+  text-align: left;
+  font-size: 20px;
+  color: #303030;
+  font-family: "Open Sans";
+}
